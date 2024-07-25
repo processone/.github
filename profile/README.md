@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome, we are open 👋
 
 [ProcessOne](https://www.process-one.net) has been focused on building large-scale highly scalable messaging platform since 2002.
 
