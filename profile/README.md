@@ -12,5 +12,7 @@ ejabberd supports the following protocols:
 - [Matrix](https://matrix.org)
 - STUN/Turn, tools used to facilitate voice and video connections between parties.
 
-No matter what you are trying to build, our software and skills can help. We focus on make the invisible part just work at scale, so that you
-can focus on the special user experience you propose in your client software.
+No matter what you are trying to build, our software and skills can help. We focus on make the invisible part just work at scale, so that
+you can focus on the special user experience you propose in your client software.
+
+We work on custom project or can provide cost effective managed platforms on [fluux](https://fluux.io).
